@@ -1,1 +1,0 @@
-export const API_URL = 'https://react-native-bookies-backend.onrender.com/api';
